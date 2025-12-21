@@ -1,0 +1,100 @@
+1. Hello World
+2. Print your name
+3. Print ASCII value of a character
+4. Add two numbers
+5. Subtract two numbers
+6. Multiply two numbers
+7. Divide two numbers
+8. Calculate remainder
+9. Swap two numbers (using 3rd variable)
+10. Swap two numbers (without 3rd variable)
+11. Find largest of two numbers
+12. Find smallest of two numbers
+13. Check if number is even or odd
+14. Check if character is vowel or consonant
+15. Print numbers from 1 to 10
+16. Print alphabets from A to Z
+17. Find sum of digits of a number
+18. Reverse a number
+19. Check palindrome number
+20. Check Armstrong number
+21. Check leap year
+22. Find factorial of a number
+23. Print multiplication table of a number
+24. Count number of digits in an integer
+25. Sum of first N natural numbers
+26. Print Fibonacci series
+27. Prime number check
+28. Print prime numbers in a range
+29. Count digits, letters and special characters in a string
+30. Print a triangle of stars
+31. Find largest element in array
+32. Find smallest element in array
+33. Sum of all elements in array
+34. Sort array elements in ascending order
+35. Copy all elements from one array to another
+36. Merge two arrays
+37. Count even and odd numbers in array
+38. Print duplicate elements in array
+39. Find frequency of elements in array
+40. Reverse an array
+41. Reverse a string
+42. Check if string is palindrome
+43. Count vowels and consonants
+44. Compare two strings
+45. Check if two strings are anagram
+46. Remove all white spaces
+47. Convert string to uppercase
+48. Convert string to lowercase
+49. Count total words in a string
+50. Find longest word in a string
+51. Create a class and object
+52. Demonstrate constructor
+53. Demonstrate method overloading
+54. Use of static keyword
+55. Demonstrate this keyword
+56. Use of super keyword
+57. Create and access getters/setters
+58. Inheritance example
+59. Multilevel inheritance
+60. Method overriding
+61. Abstract class example
+62. Interface implementation
+63. Multiple inheritance using interface
+64. Final keyword usage
+65. Encapsulation program
+66. Polymorphism example
+67. Java Enum example
+68. Inner class example
+69. Singleton class
+70. Overriding toString() method
+71. Try-catch example
+72. Multiple catch blocks
+73. Nested try block
+74. Finally block example
+75. Throw keyword usage
+76. Throws keyword usage
+77. Custom exception class
+78. ArithmeticException handling
+79. NullPointerException handling
+80. ArrayIndexOutOfBoundsException example
+81. Create file using File class
+82. Write to file using FileWriter
+83. Read from file using FileReader
+84. Append text to file
+85. Count number of lines in file
+86. Delete a file
+87. List files in a directory
+88. Copy file content to another file
+89. File not found exception handling
+90. BufferedReader file reading
+91. Generate random number
+92. Use of Math class (sqrt, pow, etc.)
+93. Convert decimal to binary
+94. Convert binary to decimal
+95. Convert number to string
+96. Convert string to number
+97. Count frequency of characters in string
+98. Validate email address format
+99. Calculate compound interest
+100. Simple calculator using switch case
