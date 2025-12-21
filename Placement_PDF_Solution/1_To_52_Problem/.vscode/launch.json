@@ -1,0 +1,59 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Question_5",
+      "request": "launch",
+      "mainClass": "Question_5",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_4",
+      "request": "launch",
+      "mainClass": "Question_4",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_3",
+      "request": "launch",
+      "mainClass": "Question_3",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_2",
+      "request": "launch",
+      "mainClass": "Question_2",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_1",
+      "request": "launch",
+      "mainClass": "Question_1",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/DARSHAN MCA/Java Programs/Placement_PDF_Solution/1_To_52_Problem",
+      "program": "d:/DARSHAN MCA/Java Programs/Placement_PDF_Solution/1_To_52_Problem/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
