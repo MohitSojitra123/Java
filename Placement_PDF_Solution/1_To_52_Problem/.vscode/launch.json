@@ -3,6 +3,132 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Question_34",
+      "request": "launch",
+      "mainClass": "Question_34",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_31_2",
+      "request": "launch",
+      "mainClass": "Question_31_2",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_28_2",
+      "request": "launch",
+      "mainClass": "Question_28_2",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_27",
+      "request": "launch",
+      "mainClass": "Question_27",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_26",
+      "request": "launch",
+      "mainClass": "Question_26",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_24",
+      "request": "launch",
+      "mainClass": "Question_24",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_23",
+      "request": "launch",
+      "mainClass": "Question_23",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Pattern_19",
+      "request": "launch",
+      "mainClass": "Pattern_19",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_18",
+      "request": "launch",
+      "mainClass": "Question_18",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_17",
+      "request": "launch",
+      "mainClass": "Question_17",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_16",
+      "request": "launch",
+      "mainClass": "Question_16",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_15",
+      "request": "launch",
+      "mainClass": "Question_15",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_14",
+      "request": "launch",
+      "mainClass": "Question_14",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_13",
+      "request": "launch",
+      "mainClass": "Question_13",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_12",
+      "request": "launch",
+      "mainClass": "Question_12",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_11",
+      "request": "launch",
+      "mainClass": "Question_11",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_10_1",
+      "request": "launch",
+      "mainClass": "Question_10_1",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
+      "name": "Question_10",
+      "request": "launch",
+      "mainClass": "Question_10",
+      "projectName": "1_To_52_Problem_1bee290c"
+    },
+    {
+      "type": "java",
       "name": "Question_5",
       "request": "launch",
       "mainClass": "Question_5",

@@ -33,9 +33,5 @@ public class Question_3 {
     }else{
         System.out.println("Number Is Not Kaprekar Number : "+num);
     }
-     
-
-
-
     }
 }
