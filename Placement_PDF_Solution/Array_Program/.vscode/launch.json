@@ -1,0 +1,129 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "First_Non_Repeating_Element",
+      "request": "launch",
+      "mainClass": "First_Non_Repeating_Element",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "First_repeating_element",
+      "request": "launch",
+      "mainClass": "First_repeating_element",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Merge_To_Sorted_array",
+      "request": "launch",
+      "mainClass": "Merge_To_Sorted_array",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Array_Equal_Check",
+      "request": "launch",
+      "mainClass": "Array_Equal_Check",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Count_Remove_Duplicate",
+      "request": "launch",
+      "mainClass": "Count_Remove_Duplicate",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Negative_Element_Left_Side_2",
+      "request": "launch",
+      "mainClass": "Negative_Element_Left_Side_2",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Negative_Element_Left_Side",
+      "request": "launch",
+      "mainClass": "Negative_Element_Left_Side",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Move_all_Zero_Into_Last",
+      "request": "launch",
+      "mainClass": "Move_all_Zero_Into_Last",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Nth_Small_Nth_Largest",
+      "request": "launch",
+      "mainClass": "Nth_Small_Nth_Largest",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Second_Largest_and_Smallest_Element",
+      "request": "launch",
+      "mainClass": "Second_Largest_and_Smallest_Element",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "even_odd_separet_array",
+      "request": "launch",
+      "mainClass": "even_odd_separet_array",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Triplte_Value_Sum",
+      "request": "launch",
+      "mainClass": "Triplte_Value_Sum",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "SubsetSumNoRecursionNoCollection",
+      "request": "launch",
+      "mainClass": "SubsetSumNoRecursionNoCollection",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Pair_Sum",
+      "request": "launch",
+      "mainClass": "Pair_Sum",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Delete_Duplicate_Element",
+      "request": "launch",
+      "mainClass": "Delete_Duplicate_Element",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/DARSHAN MCA/Java Programs/Placement_PDF_Solution/Array_Program",
+      "program": "d:/DARSHAN MCA/Java Programs/Placement_PDF_Solution/Array_Program/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

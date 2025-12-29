@@ -17,9 +17,7 @@ public class sum {
                 break;
             }
         }
-
         
-
         sc.close();
 
     }
