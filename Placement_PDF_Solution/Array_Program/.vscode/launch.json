@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Max_Difference_j_i",
+      "request": "launch",
+      "mainClass": "Max_Difference_j_i",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Arrange_Even_Odd_Element",
+      "request": "launch",
+      "mainClass": "Arrange_Even_Odd_Element",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Rearrange_array",
+      "request": "launch",
+      "mainClass": "Rearrange_array",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Majority_Element",
+      "request": "launch",
+      "mainClass": "Majority_Element",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Leaders_In_Array",
+      "request": "launch",
+      "mainClass": "Leaders_In_Array",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Equilibrium_Element_Index",
+      "request": "launch",
+      "mainClass": "Equilibrium_Element_Index",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "abc",
+      "request": "launch",
+      "mainClass": "abc",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "MySum_Subarray",
+      "request": "launch",
+      "mainClass": "MySum_Subarray",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
+      "name": "Print_Sub_Array",
+      "request": "launch",
+      "mainClass": "Print_Sub_Array",
+      "projectName": "Array_Program_8f5e237"
+    },
+    {
+      "type": "java",
       "name": "First_Non_Repeating_Element",
       "request": "launch",
       "mainClass": "First_Non_Repeating_Element",

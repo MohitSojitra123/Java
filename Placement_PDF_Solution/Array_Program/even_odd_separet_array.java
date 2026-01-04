@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class even_odd_separet_array {
+public class Even_odd_separet_array {
     public static void main(String[] args) {
       Scanner sc=new Scanner(System.in);
         
