@@ -4,14 +4,25 @@ import java.util.Scanner;
 
 public class Program_5_2 {
 
-      static int sum_of_digit(int n){
+    //   static int sum_of_digit(int n){
+    //     if(n==0){
+    //         return 0;
+    //     }else{
+    //        return (n%10) + sum_of_digit(n/10);
+    //     //    return (n%10) + sum_of_digit(n/=10);
+    //     }
+    //   }
+
+    static int sum=0;
+
+    static int sum_of_digit(int n){
         if(n==0){
-            return 0;
+            return sum;
         }else{
-           return (n%10) + sum_of_digit(n/10);
-        //    return (n%10) + sum_of_digit(n/=10);
+              sum+=n%10;
+              return sum_of_digit(n/=10);
         }
-      }
+    }
 
      public static void main(String[] args) {
          Scanner sc=new Scanner(System.in);

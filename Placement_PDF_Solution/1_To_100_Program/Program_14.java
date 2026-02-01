@@ -9,10 +9,10 @@ public class Program_14 {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter hours (0–12): ");
+        System.out.print("Enter hours (0-12): ");
         int hour = sc.nextInt();
 
-        System.out.print("Enter minutes (0–59): ");
+        System.out.print("Enter minutes (0-59): ");
         int minute = sc.nextInt();
 
         // Validate input

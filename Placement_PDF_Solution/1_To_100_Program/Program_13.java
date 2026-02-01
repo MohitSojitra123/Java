@@ -1,5 +1,7 @@
 // WAP to find a Multiplication of 2 Matrix (dimension and value should be entered by user)
 
+// Rule
+// Columns of first matrix=Rows of second matrix
 
 import java.util.Scanner;
 

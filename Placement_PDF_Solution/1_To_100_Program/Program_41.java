@@ -46,8 +46,7 @@ public class Program_41 {
             for (int j = 0; j < num.length - 1 - i; j++) {
 
                 // Ascending for positive, Descending for negative
-                if ((!isNegative && num[j] > num[j + 1]) ||
-                    (isNegative && num[j] < num[j + 1])) {
+                if ((!isNegative && num[j] > num[j + 1]) ||    (isNegative && num[j] < num[j + 1])) {
 
                     int temp = num[j];
                     num[j] = num[j + 1];

@@ -8,7 +8,6 @@ public class Program_16 {
 
         System.out.println("Enter Arry Size : ");
         int array_size=sc.nextInt();
-
         int array[]=new int[array_size];
 
         for(int i=0; i<array_size; i++){

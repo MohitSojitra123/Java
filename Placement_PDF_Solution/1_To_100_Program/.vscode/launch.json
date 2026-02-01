@@ -1,0 +1,73 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Reverse_Number",
+      "request": "launch",
+      "mainClass": "Reverse_Number",
+      "projectName": "1_To_100_Program_29251c7"
+    },
+    {
+      "type": "java",
+      "name": "Harshad_Number",
+      "request": "launch",
+      "mainClass": "Extra.Harshad_Number",
+      "projectName": "1_To_100_Program_29251c7"
+    },
+    {
+      "type": "java",
+      "name": "Series_1",
+      "request": "launch",
+      "mainClass": "Extra.Series_1",
+      "projectName": "1_To_100_Program_29251c7"
+    },
+    {
+      "type": "java",
+      "name": "Repeated_number",
+      "request": "launch",
+      "mainClass": "Repeated_number",
+      "projectName": "1_To_100_Program_29251c7"
+    },
+    {
+      "type": "java",
+      "name": "Butterfly_Pattern",
+      "request": "launch",
+      "mainClass": "Butterfly_Pattern",
+      "projectName": "1_To_100_Program_29251c7"
+    },
+    {
+      "type": "java",
+      "name": "Balanceing_Braket_small",
+      "request": "launch",
+      "mainClass": "Extra.Balanceing_Braket_small",
+      "projectName": "1_To_100_Program_29251c7"
+    },
+    {
+      "type": "java",
+      "name": "Balanceing_Bracket",
+      "request": "launch",
+      "mainClass": "Extra.Balanceing_Bracket",
+      "projectName": "1_To_100_Program_29251c7"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

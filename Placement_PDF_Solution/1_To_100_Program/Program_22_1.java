@@ -15,8 +15,9 @@ public class Program_22_1 {
           System.out.println("Enter N : ");
           int n=sc.nextInt();
 
-            int alpha_count=0;
-            int num_count=64;
+            int alpha_count=1;
+            // int num_count=64;
+            char ch='A';
 
           for(int i=1; i<=n; i++){
 
@@ -27,9 +28,10 @@ public class Program_22_1 {
 
             for(int j=1; j<=i; j++){
                 if(i%2!=0){
-                    System.out.print((++alpha_count)+" ");
+                    System.out.print((alpha_count++)+" ");
                 }else{
-                    System.out.print((char)((++num_count))+" ");
+                    // System.out.print((char)((++num_count))+" ");
+                    System.out.print((ch++)+" ");
                 }
             }
             System.out.println();
